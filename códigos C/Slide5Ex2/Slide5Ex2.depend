@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614816537 source:c:\users\idmlumen\desktop\fundamentos\slide5ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
