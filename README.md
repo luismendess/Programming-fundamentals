@@ -1,2 +1,2 @@
-# fundamentos
- Codes developed during the programming fundamentals classes
+# Fundamentos
+## Codes developed during the programming fundamentals classes
